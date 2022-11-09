@@ -172,7 +172,7 @@ display: inline-block;
 }
 
 .cta-text h4 {
-color: #fff;
+color: #style=#FD6A00;
 font-size: 20px;
 font-weight: 600;
 margin-bottom: 2px;
@@ -297,7 +297,7 @@ color: #fff;
 .subscribe-form button {
 position: absolute;
 right: 0;
-background: #ff5e14;
+background-color:  #ff5e14;
 padding: 13px 20px;
 border: 1px solid #ff5e14;
 top: 0;
@@ -678,6 +678,19 @@ color: #fff;
 .team_socials {
 height: 20px;
 width: 20px;
+}
+
+.btn158{
+  background-color: #FD6A00;
+  border-radius: 25px;
+  padding: 20px;
+
+}
+.nav-link531{
+  color: white;
+  font-weight: bold;
+
+
 }
 
 .team_socials:hover {
