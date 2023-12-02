@@ -26,6 +26,7 @@ o Career counselling in India is still not the most preferred choice for student
 # OUTPUT
 
 Sign in page
+
 ![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/94c038bb-c35f-47b1-b7d6-b25e66758267)
 
 
