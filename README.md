@@ -51,6 +51,8 @@ Website (Live Background)
 
 ![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/762a513a-5d14-4619-ad0e-9c7878991449)
 
+Footer (Zoomed out)
+
 ![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/7e34e6bb-7c8c-4d85-8462-2401f33c6d2a)
 
 # Conclusion
