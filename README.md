@@ -14,6 +14,20 @@ o Career counselling for students or career guidance process involves individual
 
 o Career counselling in India is still not the most preferred choice for students and parents alike. Sheer lack of awareness and understanding of the importance and benefits of career counselling is one of the many reasons why career related counselling is not the first choice for both the students and parents. The road toward a right career path originates from the right approach and knowledge of the future trends and prospects of different career clusters.
 
-# Architecture
-![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/d0c308cd-bbab-49e3-ad8b-0fa23f045ec2)
+# Activity Model
+![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/0953f625-5b8e-4cd6-8ee4-dafc740a14c3)
+
+# Class Model
+![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/da50e90d-5799-4267-84da-f45b5abf6c6c)
+
+# Package Model
+![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/6074fc6c-3e53-4863-9534-c81dcd884664)
+
+# OUTPUT
+
+Sign in page
+![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/94c038bb-c35f-47b1-b7d6-b25e66758267)
+
+
+
 
