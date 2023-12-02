@@ -13,3 +13,7 @@ o Career consultant(s) act as the backbone of the education sector and empower s
 o Career counselling for students or career guidance process involves individuals (school or college students or professionals) exploring various career options, understanding more about the opportunities, analyzing the career prospects and earning potential. The process also includes an all-inclusive career assessment test which evaluates individuals’ interests, strengths and weaknesses, ability/aptitude, personality traits and capabilities.
 
 o Career counselling in India is still not the most preferred choice for students and parents alike. Sheer lack of awareness and understanding of the importance and benefits of career counselling is one of the many reasons why career related counselling is not the first choice for both the students and parents. The road toward a right career path originates from the right approach and knowledge of the future trends and prospects of different career clusters.
+
+# Architecture
+![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/d0c308cd-bbab-49e3-ad8b-0fa23f045ec2)
+
