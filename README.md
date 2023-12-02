@@ -1,1 +1,2 @@
-# Career-Guidance-System
+# Abstract
+A Career Guidance System where students can see various career opportunities, the system shows various fields available after 12th, for graduation and also fields available after graduation. It also lists various colleges available where students can search colleges by their courses. Next the system allows users to give a test. It is actually a series of tests of various general questions. After test completion a score is calculated for each test. Based on those results the system manipulates and calculates the best career for that user. This result is then emailed to that user. The system also consists of an blogs module. The system also includes an eBooks page. Here user may click to read career guidance eBooks in their browser.
