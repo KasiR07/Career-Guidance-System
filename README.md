@@ -37,7 +37,7 @@ Landing Page
 
 ![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/322e8dee-afe9-40f5-b25e-2805e353a6ec)
 
-Website
+Website (Live Background)
 
 ![image](https://github.com/KasiR07/Career-Guidance-System/assets/108777263/44cdff79-6ba4-47b0-bf26-a0f4103855bc)
 
